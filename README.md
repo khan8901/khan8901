@@ -1,0 +1,1 @@
+Experienced Blockchain and MERN (MongoDB, Express.js, React.js, Node.js) developer, proficient in Solidity, with a track record of delivering 50+ projects. Specialized in React Native, with live mobile apps on Play Store and App Store. Committed to crafting scalable and innovative solutions.
